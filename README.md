@@ -13,11 +13,12 @@ The notebook includes:
 - Insights and takeaways
 
 ## 📂 Project Structure
+```bash
 academic_analysis_dv/
 ├── Academic_Analysis_DV.ipynb   # Main notebook
 ├── datasets/                    # Academic data files (CSV) please do add dataset
 └── README.md
-
+```
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3
